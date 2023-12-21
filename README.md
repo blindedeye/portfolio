@@ -1,6 +1,6 @@
-# [Your Name]'s Project Portfolio
+# Jake's Project Portfolio
 
-Welcome to my project portfolio! This repository showcases a collection of my work in [primary technology, e.g., C++, Python, Web Development, etc.]. Feel free to explore the projects and reach out to me for any questions or collaborations.
+Welcome to my project portfolio! This repository showcases a collection of my work in C++. Feel free to explore the projects and reach out to me for any questions or collaborations.
 
 ## About Me
 
