@@ -67,8 +67,8 @@ Here's a quick overview of the projects included in this portfolio:
 
 ## Contact Information
 
-- **Email:** [Your Email]
-- **LinkedIn:** [LinkedIn Profile](Your LinkedIn URL)
+- **Email:** jpeter1059@gmail.com
+- **LinkedIn:** Jake Peterson(https://www.linkedin.com/in/jake-peterson-a39a76277/)
 - **Twitter:** [@YourHandle](Your Twitter URL)
 - **Portfolio Website:** [YourWebsite.com](Your Website URL)
 
