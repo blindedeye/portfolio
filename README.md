@@ -59,7 +59,7 @@ Here's a quick overview of the projects included in this portfolio:
 - User friendly
 - Add/remove items
 
-**[Link to Repository](programs/calorieTracker/)**
+**[Link to Program](programs/calorieTracker/)**
 
 ---
 
