@@ -40,7 +40,7 @@ Here's a quick overview of the projects included in this portfolio:
 - Trameaux Backtracking Algorithm
 - Maze Solving
 
-**[Link to Project](algorithms-trameauxMazeTraversal)**
+**[Link to Project](algorithms/trameauxMazeTraversal/)**
 
 ---
 
@@ -59,7 +59,7 @@ Here's a quick overview of the projects included in this portfolio:
 - User friendly
 - Add/remove items
 
-**[Link to Repository](link-to-detailed-project-repo)**
+**[Link to Repository](programs/calorieTracker/)**
 
 ---
 
