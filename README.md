@@ -57,9 +57,8 @@ Here's a quick overview of the projects included in this portfolio:
 
 **[Link to Repository](link-to-detailed-project-repo)**
 
-... [Repeat for more featured projects]
 
-## Skills Demonstrated
+### Skills Demonstrated
 
 - Solid C++ Understanding
 - Object-Oriented Programming
