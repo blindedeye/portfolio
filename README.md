@@ -44,19 +44,24 @@ Here's a quick overview of the projects included in this portfolio:
 
 ---
 
-### Project Name 2
+### Calorie Tracker Program
 
-![Image/Logo if available](link-to-image)
+**Description:** Basic console program designed to track calories.
 
-**Description:** ...
-
-**Technologies Used:** ...
+**Technologies Used:**
+- C++ Programming Language
+- GNU C++ Compiler (g++)
+- Makefile for automating the build process
+- Standard Libraries: <iostream>, <fstream>, <map>, <set>, <vector>
 
 **Features:**
-- ...
+- Saving Capabilities (File IO)
+- User friendly
+- Add/remove items
 
 **[Link to Repository](link-to-detailed-project-repo)**
 
+---
 
 ## Skills Demonstrated
 
