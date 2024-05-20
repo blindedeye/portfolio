@@ -35,7 +35,7 @@ void listUsers() {
         }
         closedir (dir);
     } else {
-        perror (""); // Apparently this means it couldn't open folder
+        perror ("");
     }
 }
 
