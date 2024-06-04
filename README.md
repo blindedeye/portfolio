@@ -19,6 +19,7 @@ I am a Student at Colorado Mesa University. Pursuing a Bachelors of Science for 
 [Link to Program]()
 
 **Description:** Program uses the peer-to-peer technique to connect nodes to each other for messaging each other.
+
 **Highlighted Features**
 - Universally Unique Identifier (UUID): Used so users can have the same name
 - Automatic Peer Detection: Used so users don't have to input a specific ip/port
@@ -31,6 +32,7 @@ I am a Student at Colorado Mesa University. Pursuing a Bachelors of Science for 
 [Link to Program](programs/calorieTracker/)
 
 **Description** Program designed for a user to create an account and track caloric consumption.
+
 **Highlighted Features**
 - Client-End User Creation
 - FileIO Saving
@@ -41,6 +43,7 @@ I am a Student at Colorado Mesa University. Pursuing a Bachelors of Science for 
 [Link to Project](algorithms/trameauxMazeTraversal/)
 
 **Description** Program uses a Trameaux Traversal Backtracking Algorithm to solve a 2D maze.
+
 **Highlighted Features**
 - Dynamic Memory Allocation
 - Trameaux Backtracking Algorithm
@@ -52,6 +55,7 @@ I am a Student at Colorado Mesa University. Pursuing a Bachelors of Science for 
 [Link to Program]()
 
 **Description**
+
 **Highlighted Features**
 - FileIO Word Bank
 - Add/Remove Words
