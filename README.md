@@ -16,7 +16,7 @@ I am a Student at Colorado Mesa University. Pursuing a Bachelors of Science for 
 ---
 
 ## Python Peer-to-Peer Messaging App
-[Link to Program]()
+[Link to Program](./programs/p2pApp/chat.py)
 
 **Description:** Program uses the peer-to-peer technique to connect nodes to each other for messaging each other.
 
@@ -29,7 +29,7 @@ I am a Student at Colorado Mesa University. Pursuing a Bachelors of Science for 
 ---
 
 ## Calorie Tracker Program
-[Link to Program](programs/calorieTracker/)
+[Link to Program](./programs/calorieTracker/main.cpp)
 
 **Description** Program designed for a user to create an account and track caloric consumption.
 
@@ -40,7 +40,7 @@ I am a Student at Colorado Mesa University. Pursuing a Bachelors of Science for 
 ---
 
 ## Trameaux Maze Traversal Algorithm
-[Link to Project](algorithms/trameauxMazeTraversal/)
+[Link to Project](./algorithms/trameauxMazeTraversal/main.cpp)
 
 **Description** Program uses a Trameaux Traversal Backtracking Algorithm to solve a 2D maze.
 
@@ -52,9 +52,9 @@ I am a Student at Colorado Mesa University. Pursuing a Bachelors of Science for 
 ---
 
 ## Hangman Game
-[Link to Program]()
+[Link to Program](./programs/hangman/main.cpp)
 
-**Description**
+**Description** Basic game of hangman. Completed at the end of my first semester at CMU. Involves guessing letters in a randomly chosen word.
 
 **Highlighted Features**
 - FileIO Word Bank
