@@ -52,8 +52,8 @@ A full-stack budgeting web-app that helps users track income and expenses. Docke
 
 ---
 
-## 🐱 Kattis Solutions
-Solutions for several coding problems on [kattis](open.kattis.com/). ([Link](./kattis/README.md))
+## 🐱 Kattis Solutions ([Link](./kattis/README.md))
+Solutions for several coding problems on [kattis](open.kattis.com/).
 <br>
 
 ---
