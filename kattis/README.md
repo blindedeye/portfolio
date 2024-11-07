@@ -2,7 +2,7 @@
 
 <div style="width: 100%;">
 
-| Problem | Solution(s) | Kattis |
+| Problem                 | Solution(s) | Kattis |
 | ------- | ----------- | ------ |
 | 4 thought | [Solution](./solutions/4thought.py) | [![Kattis](kattis_logo.png)](https://open.kattis.com/problems/4thought) |
 | A New Alphabet | [Solution](./solutions/anewalphabet.cpp) | [![Kattis](kattis_logo.png)](https://open.kattis.com/problems/anewalphabet) |
