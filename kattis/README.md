@@ -1,13 +1,11 @@
 # Kattis Solutions
 
----
 
 Solutions for [kattis problems](https://open.kattis.com/)
 
 
 ## Problems
 
----
 
 | Problem | Solution(s) | Kattis |
 | ------- | ----------- | ------ |
