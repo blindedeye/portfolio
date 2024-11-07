@@ -1,0 +1,80 @@
+/* style.css */
+
+/* General text styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* Headings */
+h1 {
+    color: #003366; /* Dark blue for main heading */
+}
+
+h2 {
+    color: #005580; /* Medium blue for secondary headings */
+}
+
+h3 {
+    color: #006699; /* Slightly lighter blue for tertiary headings */
+}
+
+/* Project Links */
+a {
+    text-decoration: none;
+    color: #007acc; /* Light blue for links */
+}
+a:hover {
+    color: #005580; /* Darker blue on hover */
+}
+
+/* Colored text classes */
+.red-text {
+    color: #e63946; /* Vivid red for emphasis */
+}
+
+.green-text {
+    color: #2a9d8f; /* Soft green for positive highlights */
+}
+
+.blue-text {
+    color: #007acc; /* Light blue for neutral highlights */
+}
+
+.purple-text {
+    color: #6a4c93; /* Purple for special or notable content */
+}
+
+/* Featured projects styling */
+.featured-project {
+    border-left: 4px solid #2a9d8f; /* Green border for featured projects */
+    padding-left: 10px;
+    margin-bottom: 15px;
+}
+
+/* Section Divider */
+hr {
+    border: 0;
+    border-top: 2px solid #ccc;
+    margin: 20px 0;
+}
+
+/* Contact button styling */
+.button {
+    display: inline-block;
+    background-color: #007acc; /* Blue button */
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.button:hover {
+    background-color: #005580;
+}
+
+/* Portfolio Icon */
+#portfolio-icon {
+    font-size: 1.5em;
+    color: #2a9d8f;
+}
