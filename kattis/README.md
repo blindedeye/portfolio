@@ -1,9 +1,6 @@
 # Kattis Solutions
 
 
-Solutions for [kattis](https://open.kattis.com/) problems
-
-
 ## Problems
 
 
