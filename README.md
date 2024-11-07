@@ -36,6 +36,7 @@ A full-stack budgeting web-app that helps users track income and expenses. Docke
 - **Resizing Stack and Queue Data Structures** ([Stack](./projects/resizing_stackqueue/resizingStack.h)) ([Queue](./projects/resizing_stackqueue/resizingQueue.h)) - Self-resizing data structure libraries/headers created for CS3: Intro to Algorithms class. Was not allowed to use external libraries for projects, so created these to use essential data structures for specific projects.
 - **Trameaux Maze Traversal Algorithm** ([link](./projects/trameauxMazeTraversal/)) - Program that uses a Trameaux Traversal Backtracking Algorithm to solve 2D mazes. Uses dynamic memory allocation, a trameaux backtracking algorithm, and maze-solving theory.
 
+
 ---
 
 ## 🔧 Skills & Technologies
@@ -51,22 +52,28 @@ A full-stack budgeting web-app that helps users track income and expenses. Docke
 
 ---
 
+## 🐱 Kattis Solutions
+Solutions for several coding problems on [kattis](open.kattis.com/). ([Link](./kattis/README.md))
+<br>
+
+---
+
 ## 🌱 About Me
 
 A final-year CS student with a passion for solving problems and building efficient, scalable solutions. I enjoy working on projects that combine technical rigor with real-world applications.
 
 
-<br>
+<br><br><br>
 
 
 
 <div align="center" style="margin-top: 30px;">
   <a href="https://www.linkedin.com/in/jake-peterson-a39a76277/">
-    <img src="https://www.resumego.net/wp-content/uploads/linkedin-icon.png" alt="LinkedIn" width="45" height="45">
+    <img src="https://img.icons8.com/metro/26/000000/linkedin.png" alt="LinkedIn" width="45" height="45">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:jpeter1059@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Email" width="50" height="40">
+    <img src="https://i.pinimg.com/originals/32/5a/4b/325a4bd7b5041b4455e9a0b64c92190d.png" alt="Email" width="45" height="45">
   </a>
 </div>
 
