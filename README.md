@@ -55,10 +55,22 @@ A full-stack budgeting web-app that helps users track income and expenses. Docke
 
 A final-year CS student with a passion for solving problems and building efficient, scalable solutions. I enjoy working on projects that combine technical rigor with real-world applications.
 
----
 
-## 📫 Contact
 <br>
 
-Email- jpeter1059@gmail.com <br><br>
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=flat)](mailto:jpeter1059@gmail.com)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat&link=https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/jake-peterson-a39a76277/)
+
+
+<div style="text-align: center; margin-top: 50px;">
+  <footer>
+    <a href="https://www.linkedin.com/in/jake-peterson-a39a76277/">
+      <img src="https://www.resumego.net/wp-content/uploads/linkedin-icon.png" alt="LinkedIn" width="45" height="45">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="mailto:jpeter1059@gmail.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Email" width="50" height="40">
+    </a>
+  </footer>
+</div>
+
+
+
