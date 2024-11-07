@@ -1,7 +1,7 @@
 # Kattis Solutions
 
 
-Solutions for [kattis problems](https://open.kattis.com/)
+Solutions for [kattis](https://open.kattis.com/) problems
 
 
 ## Problems
