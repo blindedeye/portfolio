@@ -1,8 +1,9 @@
 # Kattis Solutions
 
+<div style="width: 100%;">
 
 | Problem | Solution(s) | Kattis |
-| --------------------- | ---------------------- | --------------- |
+| ------- | ----------- | ------ |
 | 4 thought | [Solution](./solutions/4thought.py) | [![Kattis](kattis_logo.png)](https://open.kattis.com/problems/4thought) |
 | A New Alphabet | [Solution](./solutions/anewalphabet.cpp) | [![Kattis](kattis_logo.png)](https://open.kattis.com/problems/anewalphabet) |
 | A Second Opinion | [Solution](./solutions/asecondopinion.py) | [![Kattis](kattis_logo.png)](https://open.kattis.com/problems/secondopinion) |
@@ -67,3 +68,5 @@
 | Which is Greater? | [Solution](./solutions/whichisgreater.py) | [![Kattis](kattis_logo.png)](https://open.kattis.com/problems/whichisgreater) |
 | Á leið í bíó | [Solution](./solutions/aleidibio.py) | [![Kattis](kattis_logo.png)](https://open.kattis.com/problems/aleidibio) |
 | Óvissa | [Solution](./solutions/ovissa.py) | [![Kattis](kattis_logo.png)](https://open.kattis.com/problems/ovissa) |
+
+</div>
