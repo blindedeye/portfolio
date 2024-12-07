@@ -2,16 +2,42 @@
 
 # 🧑‍💻 Jake Peterson - Project Portfolio
 
-Welcome to my portfolio! I’m a software developer with interests in software engineering, cloud development, and logic-based problem solving. In this portfolio, you’ll see highlights of my work, ranging from personal projects to academic assignments.<br><br>
+Welcome to my portfolio! I’m a CS student at Colorado Mesa University, with interests in software engineering, cloud development, and logic-based problem solving. In this portfolio, you’ll see highlights of my work, ranging from personal projects to academic assignments.<br><br>
 
 ---
 
 ## 🚀 Featured Projects
 
+### [Banking App](./projects/oop-final-fa24/README.md)
+A full-stack, mock banking application. Using Flask for a python-based backend, Postgres for the database (running locally), and regular HTML/CSS/JS frontend. Application was developed using Object-Oriented Design patterns. 
+
+Project members:
+
+Jake Peterson (Me) -> Backend Logic (setting up flask app/routes, linking frontend to backend, and implementation of hashing)
+Colin McArthur -> Frontend (making clean templates with proper styling and JS logic, setup temp routes to assist my logic development)
+Carlos Ortiz -> Database (setup the Postgres database and tables)
+
+**Tech Stack**: Python, Flask, Postgres
+
+**Highlights**:
+- Password Hashing
+- Database
+- Clean User Interface
+- User Authentication
+- Error Handling (overdraws, rollbacks, account validation, etc.)
+- Multiple Bank Account Types
+- User Roles (user, admin w/ admin page)
+- Internal & External Transfer Capabilities
+- Transaction History (with filtering functionality)
+- Modular design
+
+---
+
 ### [Weather App](./projects/weather_app/)
 A basic, Python-based, weather app using Textual for a clean command-line interface. Features rich formatting, live weather data updates, and object oriented code structure.
 
 **Tech Stack**: Python, Textual, OpenWeather API  
+
 **Highlights**:
 - Real-time weather data using Textual
 - Modular design and rich formatting for clear visuals
@@ -22,6 +48,7 @@ A basic, Python-based, weather app using Textual for a clean command-line interf
 A full-stack budgeting web-app that helps users track income and expenses. Docker-based setup for easy deployment. Assignment from Computer Languages, Fall 2024.
 
 **Tech Stack**: PostgreSQL, Docker, React, Node.js  
+
 **Highlights**:
 - Integrated Docker setup for easy deployment
 - Database-backed budgeting and analytics
