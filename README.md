@@ -14,7 +14,9 @@ A full-stack, mock banking application. Using Flask for a python-based backend, 
 Project members:
 
 Jake Peterson (Me) -> Backend Logic (setting up flask app/routes, linking frontend to backend, and implementation of hashing)
+
 Colin McArthur -> Frontend (making clean templates with proper styling and JS logic, setup temp routes to assist my logic development)
+
 Carlos Ortiz -> Database (setup the Postgres database and tables)
 
 **Tech Stack**: Python, Flask, Postgres
