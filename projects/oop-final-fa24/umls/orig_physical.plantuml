@@ -1,0 +1,13 @@
+@startuml
+node "Web Server" {
+    [Web App]
+}
+
+node "Database Server" {
+    [Database]
+    [Transaction Logs]
+}
+
+[Web App] --> [Database]
+[Web App] --> [Transaction Logs]
+@enduml

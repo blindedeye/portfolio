@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block additional_css %}
+<link rel="stylesheet" href="/static/css/dashboard.css">
+{% endblock %}
+
+{% block content %}
+<div class="main-content">
+    <h1>Welcome, <span>{{ user_name }}</span>!</h1>
+
+    <div class="account-summary">
+        <div class="overview-card">
+            <h2>${{ '{:,.2f}'.format(total_balance) }}</h2>
+            <p>Total Balance Across All Accounts</p>
+        </div>
+    </div>
+
+    <div class="recent-activity">
+        <div class="recent-expenses">
+            <h3>Recent Expenses</h3>
+            <ul>
+                {% for transaction in recent_expenses %}
+                <li style="color: red;">{{ transaction.created_at.strftime("%Y-%m-%d") }}: {{ transaction.transaction_type.name }} - ${{ "%.2f" | format(transaction.amount) }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="recent-incomes">
+            <h3>Recent Income</h3>
+            <ul>
+                {% for transaction in recent_income %}
+                <li style="color: green;">{{ transaction.created_at.strftime("%Y-%m-%d") }}: {{ transaction.transaction_type.name }} - ${{ "%.2f" | format(transaction.amount) }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+
+    <div class="dashboard-widgets">
+        <div class="transfers-progress">
+            <h1>{{ pending_transfers }}</h1>
+            <p>Transfers in Progress</p>
+        </div>
+    </div>
+</div>
+{% endblock %}

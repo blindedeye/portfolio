@@ -1,0 +1,14 @@
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+jinja2
+flask
+bcrypt
+hypothesis
+pytest
+pytest-flask
+pytest-cov
+flake8
+autopep8
+mypy
+pdoc

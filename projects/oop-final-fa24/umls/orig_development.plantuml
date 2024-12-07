@@ -1,0 +1,13 @@
+@startuml
+package Frontend {
+  [Web App] --> [UI]
+}
+
+package Backend {
+  [Logic] --> [Database]
+  [Logic] --> [Encryption]
+}
+
+[UI] --> [Logic]
+[Database] --> [Transaction Logs]
+@enduml
