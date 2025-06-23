@@ -2,11 +2,39 @@
 
 # 🧑‍💻 Jake Peterson - Project Portfolio
 
-Welcome to my portfolio! I’m a CS student at Colorado Mesa University, with interests in software engineering, cloud development, and logic-based problem solving. In this portfolio, you’ll see highlights of my work, ranging from personal projects to academic assignments.<br><br>
+Welcome to my portfolio! I’m a Computer Science Graduate, with interests in software engineering, cloud development, and logic-based problem solving. In this portfolio, you’ll see highlights of my work, ranging from personal projects to academic assignments.<br><br>
 
 ---
 
 ## 🚀 Featured Projects
+
+### [Calcutta Betting App](https://github.com/camcarthur/lucke-frontend)
+Full-stack, mock-money rodeo betting web app. Uses a Node.js/Express backend, AWS RDS Postgres database, and a React frontend. Built as a final course project for a real-world client, deployed via AWS Elastic Beanstalk and Cloudflare Pages.
+
+Project members:
+
+- Jake Peterson
+- Colin McArthur
+- Benjamin Loveland
+
+[Contributions](./projects/calcutta/contributions.md)
+
+**Tech Stack**: Node.js/Express backend, AWS RDS Postgres database, and a React frontend. Deployed via AWS Elastic Beanstalk and Cloudflare Pages
+
+**Highlights**:
+- Password Hashing
+- User Authentication
+- User Roles
+- Event Creation
+- Bidding System
+- Session Management
+- Error Handling
+- Responsive UI
+- Modular Design
+- Secure API Integration
+- Cloud Deployment
+
+---
 
 ### [Banking App](./projects/oop-final-fa24/README.md)
 A full-stack, mock banking application. Using Flask for a python-based backend, Postgres for the database (running locally), and regular HTML/CSS/JS frontend. Application was developed using Object-Oriented Design patterns. 
