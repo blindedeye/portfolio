@@ -11,7 +11,7 @@ Welcome to my portfolio! I’m a Computer Science Graduate, with interests in so
 ### [Calcutta Betting App](https://github.com/camcarthur/lucke-frontend)
 Full-stack, mock-money rodeo betting web app. Uses a Node.js/Express backend, AWS RDS Postgres database, and a React frontend. Built as a final course project for a real-world client, deployed via AWS Elastic Beanstalk and Cloudflare Pages.
 
-[Presentation](./projects/calcutta/calcuttaShowcase.pptx)
+[Presentation](./projects/calcutta/calcuttaShowcase.pdf)
 
 Project members:
 
